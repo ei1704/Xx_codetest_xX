@@ -1,1 +1,3 @@
-# Xx_codetest_xX
+# Xx_codetest_xX 
+# これはターミナルからのテストです
+# 1
